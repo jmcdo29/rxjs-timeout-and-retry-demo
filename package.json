@@ -1,0 +1,9 @@
+{
+	"name": "rxjs-timeout-and-retry-demo",
+	"scripts": {
+		"start": "node index"
+	},
+	"dependencies": {
+		"rxjs": "^6.0.0"
+	}
+}
